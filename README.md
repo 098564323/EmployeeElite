@@ -5,11 +5,8 @@ Headtsart your Modern Application Journey with Kotlin!
 
 ## Getting Started
 
-Clone this repo git clone git@github.com:catalinmiron/react-native-dribbble-app.git
-cd react-native-dribbble-app
-run npm install
-Open DribbbleApp.xcodeproj in XCode
-Press cmd+r to build it
+Clone this repo git clone git@https://github.com/098564323/EmployeeElite
+cd react-native-employeeelite-app
 
 npm install 
 react-native start
@@ -17,7 +14,6 @@ react-native run-android
 
 ### Prerequisites
 
-HTML parser
 React native Parallax view
 React native vector icons
 
@@ -27,10 +23,8 @@ React native vector icons
 
 The app has following packages:
 
-1. DB: It contains all the Database related task.
-2. DI: Dependency providing classes using Dagger2.
-3. Model: Simple model class to read data from the user inputs.
-4. Modules: Whole Application Related task.
-5. Presenter: It is bridge classes for Model and View. 
-6. UI: Contains class which are showing user interface.
-7. View: Contains interface for UI to prepare data for the user.
+1. Constant: It contains all the constant data
+2. Assessts: containts images 
+3. Utils: Utility functionality of the application
+4. Components: Contait UI and Activity related task. 
+
