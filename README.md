@@ -1,11 +1,10 @@
 # Employee Elite
 
-It is simple login example using kotlin as main language. Here we have used dagger, MVP and Room library. 
-Headtsart your Modern Application Journey with Kotlin!
+This is a react native app which have basis features like leave management, general company policy,co curricular activities etc.
 
 ## Getting Started
 
-Clone this repo git clone git@https://github.com/098564323/EmployeeElite
+Clone this repo git clone git@https://github.com/098564323/EmployeeElite.git
 cd react-native-employeeelite-app
 
 npm install 
